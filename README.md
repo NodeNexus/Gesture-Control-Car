@@ -55,17 +55,6 @@ The controller sends movement commands via **RF modules** to another Arduino tha
 4. Tilt the transmitter to drive the car! 🚗  
 
 ---
-
-## 📂 Repo Structure
-```
-Gesture-Controlled-Car/
-│── Transmitter/
-│   └── Transmitter.ino
-│── Receiver/
-│   └── Receiver.ino
-└── README.md
-```
-
 ---
 
 ## ✨ Future Improvements
